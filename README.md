@@ -1,5 +1,6 @@
 ### Cyberangel-Herrscher of Truth-SILVERWING: N-EX
 ![Dusai's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sumalene&theme=tokyonight)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumalene&layout=compact)](https://github.com/Sumalene/github-readme-stats)
 
 - TECH OTAKUS SAVE THE WORLD
   
