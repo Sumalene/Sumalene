@@ -5,7 +5,9 @@
 - 📋 Study Blog : [March7th](https://sumalene.github.io/March7thBlog/) <br> <br>
 
 <!-- ![Dusai's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sumalene&theme=tokyonight&hide=contribs,prs&show_icons=true)   -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumalene&theme=material-palenight)](https://github.com/Sumalene)
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumalene&theme=material-palenight)](https://github.com/Sumalene) -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumalene&layout=compact&theme=material-palenight)
 
 ### 📃 Languages
 
