@@ -19,5 +19,8 @@
 
 
 - TECH OTAKUS SAVE THE WORLD
+
+![Alt Text](https://github.com/mxgmn/MarkovJunior/blob/main/images/top-iso.gif?raw=true)
+
   
 <!--  ![GitHub stats](https://github.com/Sumalene/Sumalene/assets/124686994/8a6f1a5c-a9e5-4439-aa10-59dbbfc3bd8f)  -->
