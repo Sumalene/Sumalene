@@ -1,5 +1,9 @@
 <h2> Cyberangel-Herrscher of Truth-SILVERWING: N-EX </h2>
 
+College student. Hobbies: Star Wars, ACG, table tennis, data modelling.
+
+Introvert,Mild social disorder,Mild depression.
+
 - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSumalene&count_bg=%23AF95F1&title_bg=%23212020&icon=git.svg&icon_color=%2397E9E2&title=Yoka&edge_flat=false)](https://hits.seeyoufarm.com)
 - 📨 Email : egoriyo@proton.me <br>
 - 📋 iBlog : [yyoverse](https://sumalene.github.io) <br> <br>
