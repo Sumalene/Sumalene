@@ -1,8 +1,10 @@
-<h2> Cyberangel-Herrscher of Truth-SILVERWING: N-EX </h2>
+<h2>Truth-SILVERWING: N-EX </h2>
 
-College student. Hobbies: Star Wars, ACG, table tennis, ML&DL.
+*Unfold this pair of wings for me again*
+*To soar above this world*
 
-Mild social disorder,Socialists,Pessimists & Realists.
+*Turned into a moon that always tells the warmth and brightness of the sun*
+
 
 - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSumalene&count_bg=%23AF95F1&title_bg=%23212020&icon=git.svg&icon_color=%2397E9E2&title=Yoka&edge_flat=false)](https://hits.seeyoufarm.com)
 - 📨 Email : egoriyo@proton.me <br>
