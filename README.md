@@ -4,7 +4,7 @@
 
 *To soar above this world*
 
-*Turned into a moon that always tells the warmth and brightness of the sun*
+**_Turned into a moon that always tells the warmth and brightness of the sun_**
 
 ---
 
