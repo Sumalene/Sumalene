@@ -1,4 +1,4 @@
-<h2>Truth-SILVERWING: N-EX </h2>
+<h2> ABOUT </h2>
 
 *Unfold this pair of wings for me again*
 
