@@ -2,7 +2,7 @@
 
 *Unfold this pair of wings for me again*
 
-*To soar above this world*
+*Soaring past the night, To chase the primal light*
 
 **_Turned into a moon that always tells the warmth and brightness of the sun_**
 
