@@ -9,7 +9,7 @@
 ---
 
 - 📨 Email [Uncommon Contacts] 
-- 📋 website : <a href="https://march7th.me/" target="_blank">Yoniverse</a>
+- 📋 website :
 <!-- ![Dusai's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sumalene&theme=tokyonight&hide=contribs,prs&show_icons=true)   -->
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumalene&theme=material-palenight)](https://github.com/Sumalene) -->
 
