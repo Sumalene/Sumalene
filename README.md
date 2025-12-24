@@ -16,7 +16,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumalene&layout=compact&theme=material-palenight&hide=scss,Nunjucks,JupyterNotebook)
 
 
 **Yoniverse-Yae-Combo**
